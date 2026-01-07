@@ -52,7 +52,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 The dataset is from EM-DAT, the International Disaster Database. It includes records of natural disasters worldwide from 1900 to 2021.
 
 ## Author
-Ahmad Ibrahim
+© Ahmad Ibrahim
 
 ## Repository
 [GitHub Repository](https://github.com/ahmadibrahim-2000/Term_Project_2)
